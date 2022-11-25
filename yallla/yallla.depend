@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519088744 source:c:\udemy_c\yallla\main.c
+	<stdio.h>
+	<stdlib.h>
+
