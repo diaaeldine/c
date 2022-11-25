@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520278865 source:c:\udemy_c\switch_case_age\main.c
+	<stdio.h>
+	<stdlib.h>
+

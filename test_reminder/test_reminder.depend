@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543424384 source:c:\udemy_c\test_reminder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

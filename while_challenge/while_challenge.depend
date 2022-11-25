@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520303109 source:c:\udemy_c\while_challenge\main.c
+	<stdio.h>
+	<stdlib.h>
+
