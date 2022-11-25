@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524816599 source:c:\udemy_c\2d_array_string_key\main.c
+	<stdio.h>
+	<stdlib.h>
+
