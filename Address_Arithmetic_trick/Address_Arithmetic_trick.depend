@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664350427 source:c:\udemy_c\address_arithmetic_trick\main.c
+	<stdio.h>
+	<stdlib.h>
+
