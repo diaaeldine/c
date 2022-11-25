@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519157939 source:c:\udemy_c\arithmetic\main.c
+	<stdio.h>
+	<stdlib.h>
+
