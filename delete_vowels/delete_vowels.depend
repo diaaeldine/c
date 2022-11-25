@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525018793 source:c:\udemy_c\delete_vowels\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
