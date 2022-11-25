@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519871541 source:c:\udemy_c\increment2\main.c
+	<stdio.h>
+	<stdlib.h>
+

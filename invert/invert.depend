@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519234544 source:c:\udemy_c\invert\main.c
+	<stdio.h>
+	<string.h>
+

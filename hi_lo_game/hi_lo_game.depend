@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521504867 source:c:\udemy_c\hi_lo_game\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+

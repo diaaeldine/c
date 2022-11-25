@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519878312 source:c:\udemy_c\if_else\main.c
+	<stdio.h>
+	<stdlib.h>
+

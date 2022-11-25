@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520364807 source:c:\udemy_c\increment_challenge2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+
